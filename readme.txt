@@ -1,7 +1,5 @@
 Welcome to my Projects
 
-
-Author:Subair Abode
-
+Author:Subair Abode Olasunkanmi
 Twitter : @abodesubair
 
