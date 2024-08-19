@@ -1,4 +1,4 @@
-Welcome to my Projects
+Welcome to the "Git for Beginners" My Project!
 
 Author:Subair Abode Olasunkanmi
 Twitter : @abodesubair
